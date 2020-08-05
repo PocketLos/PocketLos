@@ -1,3 +1,5 @@
+![](images/header.gif)
+
 ### Hello there I'm Los, welcome to my account 👋
 
 Here are some ideas to get you started:
