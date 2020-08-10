@@ -1,4 +1,4 @@
-![](https://github.com/PocketLos/PocketLos/blob/master/images/helloworld2.gif?raw=true)
+![](https://github.com/PocketLos/PocketLos/blob/master/images/helloworld3.gif?raw=true)
 
 ## Hello there I'm Los, welcome to my account 👋
 
